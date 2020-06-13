@@ -5,6 +5,7 @@ The following are all the changes coming in TensorFlow 2.0. Let's have a closer 
 * Eager Execution / tf.function
 * Integration of the Keras API
 * Facilitated distributed training
+
 * TF Data
 * TF SavedModel
 * TensorFlow Hub
@@ -55,5 +56,5 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 
 
-This material is constantly updated for you, so stay tuned! ... (e.g. this means that the rest of the chapters are currently be written :D
+
 
